@@ -1,9 +1,12 @@
 .h12{font-size: 30px;padding-left: 22%;}
-.butoom{width: 30%;margin-left: -8em;margin-top:40%; border-radius: 12%;background-color: aqua;}
+.butoom{width: 30%;margin-left: -8em;margin-top:60%; border-radius: 12%;background-color: aqua;}
 .cory{margin-left: 45%;margin-top: -10.5em;box-shadow: 1px 1px 1px  black ;  }
 
 .core{box-shadow: 1px 1px 1px black;margin-left: 3%;margin-top: 3%;}
 .cort{box-shadow: 1px 1px 1px black;margin-left: 3%;margin-top: 3%;}
 .hq{width: 89%;padding-left: 3%; box-shadow: 5px 0px 0px 0px green;margin-top: 5%;}
-.card{margin-left: 30%;}
+.card{margin-left: 30%; background-color: #ff9999;}
 .hq1{width: 89%;;padding-left: 3%; box-shadow: 5px 0px 0px 0px green;}
+.web{padding-left: 5%;}
+.color{background-color: #ff3366;}
+.cad1{background-color: #ff9999;}
