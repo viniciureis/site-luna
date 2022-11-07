@@ -1,4 +1,4 @@
-.h12{font-size: 30px;padding-left: 22%;}
+.h12{font-size: 20px;padding-left: 12%;}
 
 .butoom{width: 30%;margin-left: -8em;margin-top:35%; border-radius: 12%;background-color: aqua;}
 
@@ -26,4 +26,9 @@
 
 .tele2{margin-left: 68%;margin-top: -48%; margin-bottom: 2%;}
 
-.ru{margin-top: 5%; width: 79%; box-shadow: 5px 0px 0px 0px green;padding-left: 10%; }
+.ru{margin-top: 5%; width: 89%; box-shadow: 5px 0px 0px 0px green;padding-left: 5%; }
+.reb{padding-left: 20%; color: white; font-size: 20px;}
+.ba{background-image: url(imgs/back.png);}
+.buro{margin-left: 35%; border-radius: 12%;margin-bottom: 5%; background-color:#ff9999 ; border-color: #ff9999;}
+.ifor{size: 40; border-radius: 10%; margin-left: 15%; border-color: red; margin-bottom: 5%;}
+.colir{background-color: red;}
