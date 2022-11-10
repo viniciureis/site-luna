@@ -27,8 +27,13 @@
 .tele2{margin-left: 68%;margin-top: -48%; margin-bottom: 2%;}
 
 .ru{margin-top: 5%; width: 89%; box-shadow: 5px 0px 0px 0px green;padding-left: 5%; }
+
 .reb{padding-left: 20%; color: white; font-size: 20px;}
+
 .ba{background-image: url(imgs/back.png);}
+
 .buro{margin-left: 35%; border-radius: 12%;margin-bottom: 5%; background-color:#ff9999 ; border-color: #ff9999;}
+
 .ifor{size: 40; border-radius: 10%; margin-left: 15%; border-color: red; margin-bottom: 5%;}
+
 .colir{background-color: red;}
